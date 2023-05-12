@@ -6,11 +6,11 @@ I am an experienced Director of Sales and Catering with a proven track record in
 
 #Experience:
 Director of Sales and Catering, McClellan Park
-Develop and execute strategic sales and marketing plans to achieve revenue goals
+Developed and executed strategic sales and marketing plans to achieve revenue goals
 Lead a team of sales and catering professionals to increase business from existing accounts and generate new business
-Build and maintain relationships with clients, vendors, and community partners
-Oversee event planning and execution, ensuring exceptional customer service and client satisfaction
-Analyze market trends and provide insights to senior leadership on industry developments
+Built and maintained relationships with clients, vendors, and community partners
+Oversaw event planning and execution, ensured exceptional customer service and client satisfaction
+Analyzed market trends and provide insights to senior leadership on industry developments
 
 
 #Skills:
