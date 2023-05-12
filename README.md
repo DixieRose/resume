@@ -1,10 +1,10 @@
 # Resume
 Director of Sales and Catering Resume
 
-#Summary
+#Summary:
 I am an experienced Director of Sales and Catering with a proven track record in the hospitality, events, and production industry. With over 21 years of experience, I have successfully managed sales teams, generated new business, and exceeded revenue targets. I specialize in creating and executing strategic plans, building relationships, and delivering exceptional customer service.
 
-#Experience
+#Experience:
 Director of Sales and Catering, McClellan Park
 Develop and execute strategic sales and marketing plans to achieve revenue goals
 Lead a team of sales and catering professionals to increase business from existing accounts and generate new business
@@ -13,7 +13,7 @@ Oversee event planning and execution, ensuring exceptional customer service and 
 Analyze market trends and provide insights to senior leadership on industry developments
 
 
-#Skills
+#Skills:
 Sales and marketing strategy development and execution
 Team management and leadership
 Relationship building and management
